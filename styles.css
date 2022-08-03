@@ -1,14 +1,14 @@
 @font-face {
   font-family: ARLRDBD;
-  src: url('./fonts/ARLRDBD.ttf');
+  src: url('./fonts/ARLRDBD.woff');
 }
 @font-face {
   font-family: arial;
-  src: url('./fonts/ARIALUNI.ttf');
+  src: url('./fonts/ARIALUNI.woff');
 }
 @font-face {
   font-family: OratorStd;
-  src: url('./fonts/OratorStd.otf');
+  src: url('./fonts/OratorStd.woff');
 }
 .main {
   background-color: rgb(255, 255, 255);
